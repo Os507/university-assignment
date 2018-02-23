@@ -1,10 +1,3 @@
-/*
-Name:Osama Abdulrahman Alamri
-E-mail:osama.507.07@hotmail.com
-ID:1742469
-section number:G1
-Assignment title:Yearly Sales Report
- */
 import java.util.Scanner;
 public class g11742469ass1 {
     public static void main(String[] args) {
